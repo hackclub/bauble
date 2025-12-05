@@ -47,8 +47,8 @@
             <p class="font-bubblegum px-4 pb-4 text-black">If you're from the US, after the tree is taken down, your ornaments will be packaged up and shipped out to you from HQ. If you live internationally, your ornament will need to be printed with <a href="https://printlegion.hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">Printing Legion</a>, and you'll be given a grant card to pay for shipping.</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
-            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">How do I get my plushie?</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">Once you've submitted your project and it's been verified to be good practice, we'll send your cat plushie to the address you provide, if you're in the US. Or if preffered or you live internationally, we'll send out a digital credit card with $25 that you can use to buy a plushie.</p>
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my ornament!</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above) and then <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
         </details>
     </div>
 </div>
