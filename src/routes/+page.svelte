@@ -3,7 +3,7 @@
 </svelte:head>
 
 <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="fixed top-0 left-0 z-50">
-    <img src="https://assets.hackclub.com/flag-orpheus-left.png" alt="Hack Club" class="w-75"/>
+    <img src="https://assets.hackclub.com/flag-orpheus-left.png" alt="Hack Club" class="w-50"/>
     
 </a>
  
@@ -32,7 +32,7 @@
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">What are the requirements?</summary>
             <p class="font-bubblegum px-4 pb-4 text-black">Your ornament must:</p>
-            <ul class="font-bubblegum px-4 pb-4 text-black list-disc pl-5">
+            <ul class="font-bubblegum px-4 pb-4 text-black list-disc ml-8">
                 <li>Be modeled by you;</li>
                 <li>Be in STL format;</li>
                 <li>Have a hole of a minimum 5mm diameter or some other way a hook or string could be attached;</li>
@@ -40,7 +40,7 @@
                 <li>Be appropriate, and;</li>
                 <li>Be able to print without supports.</li>
             </ul>
-            <p class="font-bubblegum px-4 pb-4 text-black">If you have any other questions about requirements, ask in the #bauble channel in the Hack Club Slack!</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">If you have any other questions about requirements, ask in the <a href="https://app.slack.com/client/E09V59WQY1E/C0A1SH6PF89" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">#bauble</a> channel in the Slack!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">How will I receive my ornament?</summary>
@@ -49,6 +49,10 @@
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my ornament!</summary>
             <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above) and then <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
+        </details>
+        <details class="mb-3 bg-white rounded-lg">
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I have some other questions!</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">Ask in the <a href="https://app.slack.com/client/E09V59WQY1E/C0A1SH6PF89" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">#bauble</a> channel in the Slack!</p>
         </details>
     </div>
 </div>
