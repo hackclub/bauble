@@ -8,7 +8,7 @@
 </a>
  
 <section class="min-h-screen flex flex-col items-center justify-center">
-    <img src="logo.png" alt="A cute cat" class="w-200 object-center" />
+    <img src="logo.png" alt="Bauble Logo" class="w-200 object-center" />
     <h2 class="font-bubblegum text-3xl pb-10 text-white text-center">
         3D model an ornament, get it printed and put on the HQ tree! Ends December 25th.
     </h2>  
