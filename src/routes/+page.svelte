@@ -44,7 +44,7 @@
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">How will I receive my ornament?</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">If you're from the US, after the tree is taken down, your ornaments will be packaged up and shipped out to you from HQ. If you live internationally, your ornament will need to be printed with <a href="https://printlegion.hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">Printing Legion</a>, and you'll be given a grant card to pay for shipping.</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">After the tree is taken down, your ornament will be packaged up and shipped out to you from HQ!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my ornament!</summary>
