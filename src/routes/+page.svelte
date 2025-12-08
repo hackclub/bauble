@@ -14,7 +14,7 @@
     </h2>  
     <div class="flex gap-25 mt-5">
         <button class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition cursor-pointer" on:click={() => document.getElementById('faq').scrollIntoView({ behavior: 'smooth' })}>FAQ</button>
-        <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition">Submit - Coming Soon</a>
+        <a href="https://submit.hackclub.com/bauble" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition animate-bounce duration-1000">Submit Now!</a>
     </div>
 </section>
 
