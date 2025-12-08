@@ -30,11 +30,16 @@
             <p class="font-bubblegum px-4 pb-4 text-black">Design a 3D model of an ornament! It can be whatever you want, as long as it’s appropriate and is under 100 x 100 x 100 mm. You have to make it yourself, models downloaded off of the internet are not allowed.</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">Do I need to track time with Lapse/Hackatime?</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">Time tracking is not required. You may track time with Lapse if you wish, but it is not necessary.</p>
+        </details>
+        <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">What are the requirements?</summary>
             <p class="font-bubblegum px-4 pb-4 text-black">Your ornament must:</p>
             <ul class="font-bubblegum px-4 pb-4 text-black list-disc ml-8">
                 <li>Be modeled by you;</li>
                 <li>Be in STL format;</li>
+                <li>Be uploaded to Printables;</li>
                 <li>Have a hole of a minimum 5mm diameter or some other way a hook or string could be attached;</li>
                 <li>Be no larger than 100 x 100 x 100 mm in all directions;</li>
                 <li>Be appropriate, and;</li>
@@ -47,8 +52,12 @@
             <p class="font-bubblegum px-4 pb-4 text-black">After the tree is taken down, your ornament will be packaged up and shipped out to you from HQ!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
+            <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">Is this double dippable?</summary>
+            <p class="font-bubblegum px-4 pb-4 text-black">No, Bauble cannot be double dipped with any other Hack Club programs.</p>
+        </details>
+        <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my ornament!</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above) and then <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above), upload it to Printables, and <a href="https://submit.hackclub.com/bauble" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I have some other questions!</summary>
