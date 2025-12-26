@@ -14,7 +14,7 @@
     </h2>  
     <div class="flex gap-25 mt-5">
         <button class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition cursor-pointer" on:click={() => document.getElementById('faq').scrollIntoView({ behavior: 'smooth' })}>FAQ</button>
-        <a href="https://submit.hackclub.com/bauble" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition animate-bounce duration-1000">Submit Now!</a>
+        <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="font-bubblegum bg-white text-black text-3xl py-6 px-18 rounded-lg transition">Submissions Closed!</a>
     </div>
 </section>
 
@@ -57,7 +57,7 @@
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I've finished my ornament!</summary>
-            <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above), upload it to Printables, and <a href="https://submit.hackclub.com/bauble" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
+            <p class="font-bubblegum px-4 pb-4 text-black">Great! Make sure it follows all the requirements (see the requirements section above), upload it to Printables, and <a href="https://hackclub.com" target="_blank" rel="noopener noreferrer" class="underline cursor-pointer">submit</a>!</p>
         </details>
         <details class="mb-3 bg-white rounded-lg">
             <summary class="font-bubblegum text-xl text-black p-4 cursor-pointer">I have some other questions!</summary>
